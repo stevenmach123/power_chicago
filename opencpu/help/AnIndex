@@ -1,0 +1,12 @@
+apps	apps
+available_apps	apps
+installed_apps	apps
+install_apps	apps
+ocpu	server
+ocpu-server	server
+ocpu_start_app	server
+ocpu_start_server	server
+opencpu	server
+remove_apps	apps
+strings	server
+update_apps	apps

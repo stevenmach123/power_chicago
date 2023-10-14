@@ -1,4 +1,5 @@
 ---
+Package: opencpu
 Title: power_chicago
 Description: power_chicago
 Author:person(given = "KHANG",
