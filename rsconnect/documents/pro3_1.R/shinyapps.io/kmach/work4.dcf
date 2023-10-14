@@ -1,0 +1,12 @@
+name: work4
+title: work4
+username: kmach
+account: kmach
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10185580
+bundleId: 7801155
+url: https://kmach.shinyapps.io/work4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

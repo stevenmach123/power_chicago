@@ -1,0 +1,20 @@
+*We need  install all packages important like. 
+  Tigris, leafpop, RColorBrewer, data.table, tidycensus, mapview, dplyr  and the rest 
+
+*Prepare.R
+ 
+  I have extra code in prepare.R which have variable aa, aa31 for tract and block shape file. Since when start up to run, it might call directly on pro3_1.R. so you can comment out on around line 39. 
+
+aa <-get_decennial(geography = "block", state ="IL", variables = "P001001", county="Cook",geometry = TRUE)
+aa31 <-get_acs(geography= "tract",state= "IL", variables = "B01003_001",county ="Cook", geometry=TRUE)
+aa31  <- aa31  %>% select(-c("moe","estimate","variable","NAME"))
+
+  And run those to have contain in global environment, then start up the code faster. 
+
+
+
+## ONE IMPORTANT NOTE ####
+
+ I think I left out  a library called  stringr that cause str_detect() no found. 
+  I hope TA can include for me on code library(stringr). Since, I ran on a common workspace, sharing multiple script R. So get the library already called on other .R, which make the workspace has it already despite add/not in pro3_1.R. Until, I shut down my Mac, and rerun when global variable clear out, then it cause this error. 
+
