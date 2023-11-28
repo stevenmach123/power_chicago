@@ -19,3 +19,4 @@
   ## 3.Run Project
   1. When at "power_chicago" directory, click pro3_1.R to view up the file code
   2. Click "Run" on Shiny App. Then just wait for data to process and view.
+  * [!Text](./images/pic5.png)
