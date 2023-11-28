@@ -17,5 +17,5 @@
   * Note: I am in power_chicago as my current project, so I have path User/Desktop/power_chicago/power_chicago. But your [project_name] can be different
   * [!Text](./images/pic3.png) 
   ## 3.Run Project
-      1. When at "power_chicago" directory, click pro3_1.R to view up the file code
-      2 Click "Run" on Shiny App. Then just wait for data to process and view.
+  1. When at "power_chicago" directory, click pro3_1.R to view up the file code
+  2. Click "Run" on Shiny App. Then just wait for data to process and view.
