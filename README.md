@@ -1,5 +1,6 @@
 # Link
   - https://posit.cloud/content/6791509
+  - Give it around 1-2min for download csv data
 # Download RStudio
   - If you don't have [RStudio](https://posit.co/download/rstudio-desktop/) 
 # Step to Reproduce
