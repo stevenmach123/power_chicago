@@ -1,7 +1,9 @@
 ## Category: Project
 ## Link
   - https://posit.cloud/content/6791509
+      - the initial data processing require high CPU,memory, which exceed free tier, it need *25$/month* for higher processor, if you need see my project in action, contact me via [Linkedin](https://www.linkedin.com/in/khang-mach-b1b343164/) , I might keep it for another months :). Thank you for understanding!
   - Give it around 1-2min for download csv data
+  - Demos on YouTube
 ## Languages 
   - Languages: R, Excel 
   - Library: Leaflet Renderer, MapView Renderer, Shiny UI.
